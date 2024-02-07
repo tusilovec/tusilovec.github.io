@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TusiLovec website</title>
+    <link>https://tusilovec.cz/posts/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cz-cs</language><atom:link href="https://tusilovec.cz/posts/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>3D Tisk - benchmarky filamentů</title>
+        <link>https://tusilovec.cz/posts/tisk/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tusilovec.cz/posts/tisk/</guid>
+        <description>Zdravím, níže si ukážeme kalibrační kostku tisknutou z několika různých filamentů. Tiskárna na které benchmarky dělám je Elegoo neptune 3 Pro. Každý filament ohodnotím hvězdičkama. Maximum je 5
+Nastavení tiskárny:
+Rychlost tisku: 500mm/s (maximum) Teplota trysky při první vrstvě: 210°C Teplota trysky při ostatních vrstvách: 205°C Teplota podložky (bed): 60°C Výtisky můžou vypadat úplně jinak u jiných teplot a pomalejšího tisku!!! Při hodnocení beru ohled na rychlost tisku!!!
+Testované filamenty:</description>
+      </item>
+    
+      <item>
+        <title>Discord server - GAR</title>
+        <link>https://tusilovec.cz/posts/5_gar/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tusilovec.cz/posts/5_gar/</guid>
+        <description>GAR = Gameři a Relax
+Invite: https://discord.gg/ZqXhUFfYH7
+Promotion video: https://www.youtube.com/watch?v=j_Dd_fdD90g</description>
+      </item>
+    
+      <item>
+        <title>Hry</title>
+        <link>https://tusilovec.cz/posts/3_games/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tusilovec.cz/posts/3_games/</guid>
+        <description>Moje oblíbené hry:
+BeamNG.drive Euro Truck Simulátor 2 Live For Speed </description>
+      </item>
+    
+      <item>
+        <title>O mně</title>
+        <link>https://tusilovec.cz/posts/1_aboutme/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tusilovec.cz/posts/1_aboutme/</guid>
+        <description>Jmenuju se Tomáš, ale říkám si TusiLovec. Přezdívka vznikla od mého příjmení.
+Vysvětluje: Tusi - kamarádi mi říkají, že hodně tuším, Lovec - lovím spousta informací z internetu.</description>
+      </item>
+    
+      <item>
+        <title>PC Komponenty a ostatní příslušenství</title>
+        <link>https://tusilovec.cz/posts/2_komponents/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tusilovec.cz/posts/2_komponents/</guid>
+        <description>PC:
+OS: Windows 11 Pro MB: GIGABYTE Aorus B550 PRO AC (rev.1.1) CPU: AMD Ryzen 7 5700x GPU: AMD Radeon RX6600 (PowerColor Fighter edice) RAM: Kingston Fury Beast Black 2666Mhz 24GB (A1: 0GB, A2: 8GB/2666Mhz, B1: 0GB, B2: 16GB/2666Mhz) CPU FAN: SilentiumPC Fera 5 Skříň: Zalman T7 PSU: be quiet! SYSTEM POWER 9 - 600W Hlavní monitor: Philips 220E Vedlejší monitor (vpravo): LG Flatron E2251 Vedlejší monitor (vlevo na výšku): AOC 2269WM (ze sběráku) Disk OS + pár her: Kingston NV1 500GB Disk soubory: HDD HGHST (značka) 500GB Disk odpad + zbytečnosti: HDD WD 500GB Disk hry #1: HDD HGHST 500GB Disk hry #2: SSD Samsung 250GB (870 EVO) Notebook HP 15s-eq1993nc</description>
+      </item>
+    
+      <item>
+        <title>PC Setup</title>
+        <link>https://tusilovec.cz/posts/pc_setup/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tusilovec.cz/posts/pc_setup/</guid>
+        <description>Upozornění: Fotografie jsou aktuální ke dnu 1.12.2023 </description>
+      </item>
+    
+  </channel>
+</rss>
