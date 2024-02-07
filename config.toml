@@ -1,0 +1,13 @@
+﻿baseURL = 'http://localhost:8080/'
+languageCode = 'cz-cs'
+title = 'TusiLovec website'
+theme = "color"
+
+[params]
+  [params.style]
+    useCustomChroma = false
+
+[params.notFound]
+  title         = "TusiLovec - stránka nenalezena"
+  description   = "Tuto stránku jsme nenalezli."
+  paragraph     = "Nic tu není."
