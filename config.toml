@@ -1,4 +1,4 @@
-﻿baseURL = 'http://localhost:8080/'
+baseURL = 'https://tusilovec.cz/'
 languageCode = 'cz-cs'
 title = 'TusiLovec website'
 theme = "color"
