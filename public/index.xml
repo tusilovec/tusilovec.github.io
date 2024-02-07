@@ -5,7 +5,17 @@
     <link>https://tusilovec.cz/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cz-cs</language><atom:link href="https://tusilovec.cz/index.xml" rel="self" type="application/rss+xml" />
+    <language>cz-cs</language>
+    <lastBuildDate>Wed, 07 Feb 2024 10:39:49 +0100</lastBuildDate><atom:link href="https://tusilovec.cz/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>6_test</title>
+        <link>https://tusilovec.cz/posts/6_test/</link>
+        <pubDate>Wed, 07 Feb 2024 10:39:49 +0100</pubDate>
+        
+        <guid>https://tusilovec.cz/posts/6_test/</guid>
+        <description>ok?</description>
+      </item>
+    
       <item>
         <title>3D Tisk - benchmarky filamentů</title>
         <link>https://tusilovec.cz/posts/tisk/</link>
