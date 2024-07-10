@@ -45,7 +45,7 @@ U tohoto filamentu byla neúplná první vrstva. (ze spodu) Byli v ní díry. Fo
 
 **Colorfil:**
 ![COLORFIL_1](colorfil_1.jpg)
-*Hodnocení:* ⭐
+*Hodnocení:* ⭐⭐⭐⭐⭐
 
 
 **Premium Filament (PF):**
@@ -62,8 +62,3 @@ Odlepení od podložky. (nízká přilnavost k podložce)
 ![PF](PF_1.jpg)
 *Hodnocení:* 0
 
-**Již brzy:**
-1) Samostatný web pro 3D tisk
-2) Více testů
-3) Testování dalších značek
-4) Testování jiných typů než PLA
