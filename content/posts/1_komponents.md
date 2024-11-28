@@ -9,7 +9,7 @@ seradit = 1
 2) MB: GIGABYTE Aorus B550 PRO AC (rev.1.1)
 3) CPU: AMD Ryzen 7 5700x 
 4) GPU: AMD Radeon RX6600 (PowerColor Fighter edice)
-5) RAM: Kingston Fury Beast Black 2666Mhz 32GB (A1: 16GB, A2: 0GB, B1: 16GB, B2: 0GB)
+5) RAM: Kingston Fury Beast Black 3200Mhz 64GB (A1: 32GB, A2: 0GB, B1: 32GB, B2: 0GB)
 6) CPU FAN: SilentiumPC Fera 5
 7) Skříň: ADATA XPG Valor Mesh Black
 8) PSU: be quiet! SYSTEM POWER 9 - 600W
@@ -17,7 +17,7 @@ seradit = 1
 10) Vedlejší monitor (vpravo): LG Flatron E2251
 11) Vedlejší monitor (vlevo na výšku): AOC 2269WM
 12) Disk OS: Kingston NV1 500GB (m.2/ssd)
-13) Disk Hry: Kingston NV2 1TB (m.2/ssd)
+13) Disk Hry: WD Blue SN580 1TB (m.2/ssd)
 14) Disk soubory: HGST 500GB (sata/hdd)
 15) Disk ostatní: Segate 500GB (sata/hdd)
 
