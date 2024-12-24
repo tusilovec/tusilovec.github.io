@@ -7,7 +7,7 @@ seradit = 1
 
 1) OS: Windows 11 Pro 
 2) MB: GIGABYTE Aorus B550 PRO AC (rev.1.1)
-3) CPU: AMD Ryzen 7 5700x 
+3) CPU: AMD Ryzen 7 5700X
 4) GPU: AMD Radeon RX6600 (PowerColor Fighter edice)
 5) RAM: Kingston Fury Beast Black 3200Mhz 64GB (A1: 32GB, A2: 0GB, B1: 32GB, B2: 0GB)
 6) CPU FAN: SilentiumPC Fera 5
@@ -27,7 +27,7 @@ seradit = 1
 1) Podložka pod myš: CZC Gaming Circuit Board XXL zelená
 2) Mikrofon: RODE NT-USB 
 3) Sluchátka: Logitech G533 7.1
-4) Klávesnice: CZC Gaming Chimera (Durock Pom Piano Lubed + Akko keycaps)
+4) Klávesnice: CZC Gaming Chimera (Durock Pom Piano Lubed + Akko keycaps) + CZC Gaming Nightblade (Outemu red)
 5) Myš: CZC Gaming Shapeshifter
 6) Audio: Philips micro system MCM204 + Basový reproduktor Logitech
 7) CD Mechanika: Verbatin writer
@@ -37,7 +37,7 @@ seradit = 1
 
 **Další věci:**
 
-1) Mobil: Motorola moto e(7) power
+1) Mobil: CMF by Nothing Phone 1 (8/128GB)
 2) Tiskárna: Elegoo Neptune 3 Pro
 3) Server pro tiskárna: Raspberry Pi 4B 2Gb
 4) Server: HP Compaq dc7900
